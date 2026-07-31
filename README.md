@@ -6,7 +6,7 @@ Each GitHub folder contains the code for one tutorial.
 
 For the complete explanations and walkthroughs, visit:
 
-👉 https://payhip.com/learnpdfpython
+👉 https://payhip.com/learnpdfpython/free-tutorials
 
 ## Tutorials
 
