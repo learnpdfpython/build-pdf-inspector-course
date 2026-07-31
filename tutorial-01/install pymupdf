@@ -1,1 +1,9 @@
+# Install PyMuPDF
 
+# Run this in Google Colab
+
+%pip install -q -U pymupdf
+
+import pymupdf
+
+print(pymupdf.__version__)
