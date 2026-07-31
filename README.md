@@ -22,6 +22,3 @@ For the complete explanations and walkthroughs, visit:
 - ⏳ Tutorial 10 — Build the Complete PDF Inspector
 
 
-## Google Colab
-
-Each tutorial includes a runnable Google Colab notebook.
