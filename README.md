@@ -10,8 +10,8 @@ For the complete explanations and walkthroughs, visit:
 
 ## Tutorials
 
-- ⏳ Tutorial 1 — Install PyMuPDF
-- ⏳ Tutorial 2 — Open Your First PDF
+- ✅ Tutorial 1 — Install PyMuPDF
+- 🔜 Tutorial 2 — Open Your First PDF
 - ⏳ Tutorial 3 — Count PDF Pages
 - ⏳ Tutorial 4 — Read PDF Metadata
 - ⏳ Tutorial 5 — Check If a PDF Is Encrypted
