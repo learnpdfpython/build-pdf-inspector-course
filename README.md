@@ -1,8 +1,12 @@
 # Build a PDF Inspector (Free Course)
 
-Learn how to build a real PDF Inspector in Python using PyMuPDF.
+Learn how to build a PDF Inspector in Python using PyMuPDF.
 
-This free course is designed for beginners and teaches PDF analysis step by step.
+Each GitHub folder contains the code for one tutorial.
+
+For the complete explanations, diagrams, and walkthroughs, visit:
+
+👉 https://payhip.com/learnpdfpython
 
 ## Tutorials
 
@@ -18,10 +22,6 @@ This free course is designed for beginners and teaches PDF analysis step by step
 - ⏳ Tutorial 10 — Build the Complete PDF Inspector
 
 ## Read the course
-
-Full tutorials:
-
-https://payhip.com/learnpdfpython
 
 ## Google Colab
 
