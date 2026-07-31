@@ -1,6 +1,6 @@
-# Install PyMuPDF
-
-# Run this in Google Colab
+# Tutorial 1 — Install PyMuPDF
+# Full explanation:
+# https://payhip.com/learnpdfpython/install-pymupdf
 
 %pip install -q -U pymupdf
 
