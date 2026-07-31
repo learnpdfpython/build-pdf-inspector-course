@@ -10,7 +10,7 @@ For the complete explanations, diagrams, and walkthroughs, visit:
 
 ## Tutorials
 
-- ✅ Tutorial 1 — Install PyMuPDF
+- ⏳ Tutorial 1 — Install PyMuPDF
 - ⏳ Tutorial 2 — Open Your First PDF
 - ⏳ Tutorial 3 — Count PDF Pages
 - ⏳ Tutorial 4 — Read PDF Metadata
@@ -21,7 +21,6 @@ For the complete explanations, diagrams, and walkthroughs, visit:
 - ⏳ Tutorial 9 — Extract Additional PDF Information
 - ⏳ Tutorial 10 — Build the Complete PDF Inspector
 
-## Read the course
 
 ## Google Colab
 
